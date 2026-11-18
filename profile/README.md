@@ -1,4 +1,4 @@
-<h1 align="center">🖥️ Nintendo 2DS Firmware Tool</h1>
+<h1 align="center">🖥️ Nintendo DS Firmware Tool</h1>
 
 <p align="center">
   <strong>Firmware Management. Version Tracking. System Maintenance.</strong>
